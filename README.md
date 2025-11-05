@@ -1,0 +1,3 @@
+- Interfaced ADT7420 sensor with Artix-7 FPGA on Nexys 4 DDR Board using custom I2C Protocol
+- Captured & calibrated real-time ambient temperature data with ± 25 degree celcius accuracy.
+- Optimized FPGA logic for data acquisition, processing, and display on monitoring system 
